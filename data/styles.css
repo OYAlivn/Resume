@@ -9,6 +9,10 @@
 }
 ._默认样式 {
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 ._图片 {
 }
 .flow_shape {
@@ -316,10 +320,6 @@
   font-weight:bold;
   font-style:normal;
   font-size:32px;
-  text-align:left;
-}
-.label {
-  font-size:14px;
   text-align:left;
 }
 ._文本段落2 {
